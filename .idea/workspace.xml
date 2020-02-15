@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cbf4d586-5916-4d8b-9a00-9b1dfeaaee17" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="20" />
+    <option name="width" value="1195" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectId" id="1XrJSvxCwAxN4HkWssLfWAIXHVn" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542718265929" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lords of the Land" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Mastermind" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbf4d586-5916-4d8b-9a00-9b1dfeaaee17" name="Default Changelist" comment="" />
+      <created>1542479704660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542479704660</updated>
+      <workItem from="1542479710636" duration="2301000" />
+      <workItem from="1542521933916" duration="3668000" />
+      <workItem from="1542536559646" duration="323000" />
+      <workItem from="1542542563386" duration="8658000" />
+      <workItem from="1542574196117" duration="861000" />
+      <workItem from="1542632568607" duration="2129000" />
+      <workItem from="1542640038310" duration="2906000" />
+      <workItem from="1542693867822" duration="3509000" />
+      <workItem from="1542714511886" duration="3817000" />
+      <workItem from="1542740632799" duration="4488000" />
+      <workItem from="1542745942647" duration="718000" />
+      <workItem from="1542795184782" duration="709000" />
+      <workItem from="1542874895607" duration="1749000" />
+      <workItem from="1542886509199" duration="925000" />
+      <workItem from="1543159989584" duration="3319000" />
+      <workItem from="1543172600658" duration="707000" />
+      <workItem from="1543179744330" duration="749000" />
+      <workItem from="1546514707503" duration="42000" />
+      <workItem from="1546515031157" duration="897000" />
+      <workItem from="1546713330496" duration="2229000" />
+      <workItem from="1547029182877" duration="2025000" />
+      <workItem from="1547361313203" duration="22000" />
+      <workItem from="1547361460751" duration="3371000" />
+      <workItem from="1547625764607" duration="1549000" />
+      <workItem from="1549445096874" duration="629000" />
+      <workItem from="1550555857493" duration="590000" />
+      <workItem from="1550560508933" duration="210000" />
+      <workItem from="1568791227819" duration="473000" />
+      <workItem from="1568792552636" duration="8000" />
+      <workItem from="1569865844038" duration="56000" />
+      <workItem from="1581798283599" duration="611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
